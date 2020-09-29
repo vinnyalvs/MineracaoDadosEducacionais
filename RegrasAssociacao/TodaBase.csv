@@ -1,0 +1,81 @@
+Supp,Conf,Covr,Strg,Lift,Levr,Antecedent,,Consequent
+0.24,0.999,0.24,1.935,2.152,0.128,"mediaNota=585.6 - 718.21, TemPC=Sim",→,Cluster=B
+0.285,0.999,0.286,1.626,2.152,0.153,mediaNota=585.6 - 718.21,→,Cluster=B
+0.212,0.975,0.218,3.537,1.266,0.045,"ClasseSocial=E, TemPC=Não, Cluster=A",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.247,0.971,0.254,3.033,1.261,0.051,"TemPC=Não, Cluster=A",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.26,0.967,0.269,2.86,1.256,0.053,"ClasseSocial=E, TP_COR_RACA=NãoBranco, Cluster=A",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.37,0.965,0.383,2.009,1.253,0.075,"ClasseSocial=E, Cluster=A",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.261,0.958,0.272,2.831,1.244,0.051,"mediaNota=452.99 - 585.6, ClasseSocial=E, Cluster=A",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.342,0.955,0.358,2.151,1.24,0.066,"TP_COR_RACA=NãoBranco, Cluster=A",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.212,0.954,0.222,3.463,1.238,0.041,"mediaNota=452.99 - 585.6, TemPC=Não",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.226,0.95,0.238,3.234,1.233,0.043,"mediaNota=452.99 - 585.6, ClasseSocial=E, TP_COR_RACA=NãoBranco",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.269,0.95,0.283,2.719,1.233,0.051,"ClasseSocial=E, TemPC=Não",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.242,0.945,0.256,3.006,1.227,0.045,"mediaNota=452.99 - 585.6, TP_COR_RACA=NãoBranco, Cluster=A",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.506,0.945,0.536,1.438,1.227,0.094,Cluster=A,→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.336,0.945,0.356,2.163,1.227,0.062,"mediaNota=452.99 - 585.6, ClasseSocial=E",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.223,0.941,0.237,3.246,1.222,0.041,"TP_COR_RACA=NãoBranco, TemPC=Não",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.368,0.934,0.394,1.954,1.213,0.065,"mediaNota=452.99 - 585.6, Cluster=A",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.318,0.925,0.344,2.24,1.202,0.053,"mediaNota=452.99 - 585.6, TP_COR_RACA=NãoBranco",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.246,0.925,0.265,2.901,1.202,0.041,EstudoMae=F. Incompleto,→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.344,0.924,0.372,2.072,1.2,0.057,"ClasseSocial=E, TP_COR_RACA=NãoBranco",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.322,0.924,0.348,2.21,1.199,0.054,TemPC=Não,→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.26,0.922,0.282,2.734,1.197,0.043,"TemPC=Sim, Cluster=A",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.497,0.908,0.547,1.407,1.179,0.075,mediaNota=452.99 - 585.6,→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.51,0.906,0.562,1.37,1.176,0.076,ClasseSocial=E,→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.285,0.876,0.325,2.371,1.138,0.035,"mediaNota=452.99 - 585.6, TemPC=Sim",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.241,0.862,0.279,2.76,1.119,0.026,"ClasseSocial=E, TemPC=Sim",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.212,0.861,0.247,2.28,1.531,0.074,"TemPC=Não, Cluster=A, TP_DEPENDENCIA_ADM_ESC=Estadual",→,ClasseSocial=E
+0.218,0.857,0.254,2.214,1.525,0.075,"TemPC=Não, Cluster=A",→,ClasseSocial=E
+0.488,0.847,0.575,1.339,1.1,0.044,TP_COR_RACA=NãoBranco,→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.2,0.843,0.237,2.37,1.5,0.067,"TP_COR_RACA=NãoBranco, TemPC=Não",→,ClasseSocial=E
+0.2,0.843,0.238,2.743,1.294,0.045,"TP_COR_RACA=Branco, Cluster=B",→,TemPC=Sim
+0.24,0.84,0.285,2.282,1.29,0.054,"mediaNota=585.6 - 718.21, Cluster=B",→,TemPC=Sim
+0.24,0.84,0.286,2.281,1.29,0.054,mediaNota=585.6 - 718.21,→,TemPC=Sim
+0.24,0.84,0.286,1.295,2.27,0.134,mediaNota=585.6 - 718.21,→,"TemPC=Sim, Cluster=B"
+0.212,0.836,0.254,2.006,1.641,0.083,"TemPC=Não, Cluster=A",→,"ClasseSocial=E, TP_DEPENDENCIA_ADM_ESC=Estadual"
+0.269,0.835,0.322,1.747,1.486,0.088,"TemPC=Não, TP_DEPENDENCIA_ADM_ESC=Estadual",→,ClasseSocial=E
+0.283,0.813,0.348,1.614,1.446,0.087,TemPC=Não,→,ClasseSocial=E
+0.37,0.796,0.464,1.403,1.222,0.067,Cluster=B,→,TemPC=Sim
+0.201,0.795,0.253,2.572,1.219,0.036,ClasseSocial=D,→,TemPC=Sim
+0.212,0.789,0.269,1.991,1.474,0.068,"ClasseSocial=E, TemPC=Não, TP_DEPENDENCIA_ADM_ESC=Estadual",→,Cluster=A
+0.21,0.789,0.265,2.118,1.404,0.06,EstudoMae=F. Incompleto,→,ClasseSocial=E
+0.264,0.782,0.338,2.279,1.015,0.004,"TP_COR_RACA=NãoBranco, TemPC=Sim",→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.22,0.78,0.282,1.943,1.425,0.066,"TemPC=Sim, Cluster=A",→,mediaNota=452.99 - 585.6
+0.27,0.78,0.346,2.223,1.012,0.003,EstudoMae=Medio,→,TP_DEPENDENCIA_ADM_ESC=Estadual
+0.261,0.775,0.336,1.592,1.446,0.08,"mediaNota=452.99 - 585.6, ClasseSocial=E, TP_DEPENDENCIA_ADM_ESC=Estadual",→,Cluster=A
+0.269,0.772,0.348,1.462,1.515,0.091,TemPC=Não,→,"ClasseSocial=E, TP_DEPENDENCIA_ADM_ESC=Estadual"
+0.218,0.769,0.283,1.891,1.435,0.066,"ClasseSocial=E, TemPC=Não",→,Cluster=A
+0.247,0.766,0.322,1.664,1.43,0.074,"TemPC=Não, TP_DEPENDENCIA_ADM_ESC=Estadual",→,Cluster=A
+0.272,0.764,0.356,1.504,1.427,0.081,"mediaNota=452.99 - 585.6, ClasseSocial=E",→,Cluster=A
+0.26,0.762,0.342,1.644,1.355,0.068,"TP_COR_RACA=NãoBranco, Cluster=A, TP_DEPENDENCIA_ADM_ESC=Estadual",→,ClasseSocial=E
+0.242,0.761,0.318,1.683,1.421,0.072,"mediaNota=452.99 - 585.6, TP_COR_RACA=NãoBranco, TP_DEPENDENCIA_ADM_ESC=Estadual",→,Cluster=A
+0.26,0.758,0.344,1.559,1.416,0.076,"ClasseSocial=E, TP_COR_RACA=NãoBranco, TP_DEPENDENCIA_ADM_ESC=Estadual",→,Cluster=A
+0.269,0.752,0.358,1.571,1.338,0.068,"TP_COR_RACA=NãoBranco, Cluster=A",→,ClasseSocial=E
+0.212,0.75,0.283,1.787,1.481,0.069,"ClasseSocial=E, TemPC=Não",→,"Cluster=A, TP_DEPENDENCIA_ADM_ESC=Estadual"
+0.256,0.745,0.344,1.558,1.391,0.072,"mediaNota=452.99 - 585.6, TP_COR_RACA=NãoBranco",→,Cluster=A
+0.368,0.741,0.497,1.078,1.383,0.102,"mediaNota=452.99 - 585.6, TP_DEPENDENCIA_ADM_ESC=Estadual",→,Cluster=A
+0.302,0.74,0.408,1.598,1.135,0.036,TP_COR_RACA=Branco,→,TemPC=Sim
+0.394,0.736,0.536,1.022,1.344,0.101,Cluster=A,→,mediaNota=452.99 - 585.6
+0.261,0.732,0.356,1.422,1.446,0.08,"mediaNota=452.99 - 585.6, ClasseSocial=E",→,"Cluster=A, TP_DEPENDENCIA_ADM_ESC=Estadual"
+0.37,0.731,0.506,1.111,1.299,0.085,"Cluster=A, TP_DEPENDENCIA_ADM_ESC=Estadual",→,ClasseSocial=E
+0.254,0.729,0.348,1.537,1.361,0.067,TemPC=Não,→,Cluster=A
+0.26,0.728,0.358,1.423,1.428,0.078,"TP_COR_RACA=NãoBranco, Cluster=A",→,"ClasseSocial=E, TP_DEPENDENCIA_ADM_ESC=Estadual"
+0.368,0.727,0.506,1.081,1.329,0.091,"Cluster=A, TP_DEPENDENCIA_ADM_ESC=Estadual",→,mediaNota=452.99 - 585.6
+0.37,0.726,0.51,1.051,1.355,0.097,"ClasseSocial=E, TP_DEPENDENCIA_ADM_ESC=Estadual",→,Cluster=A
+0.269,0.725,0.372,1.441,1.353,0.07,"ClasseSocial=E, TP_COR_RACA=NãoBranco",→,Cluster=A
+0.394,0.72,0.547,0.979,1.344,0.101,mediaNota=452.99 - 585.6,→,Cluster=A
+0.383,0.716,0.536,1.05,1.273,0.082,Cluster=A,→,ClasseSocial=E
+0.256,0.716,0.358,1.529,1.308,0.06,"TP_COR_RACA=NãoBranco, Cluster=A",→,mediaNota=452.99 - 585.6
+0.226,0.711,0.318,1.767,1.264,0.047,"mediaNota=452.99 - 585.6, TP_COR_RACA=NãoBranco, TP_DEPENDENCIA_ADM_ESC=Estadual",→,ClasseSocial=E
+0.272,0.71,0.383,1.428,1.297,0.062,"ClasseSocial=E, Cluster=A",→,mediaNota=452.99 - 585.6
+0.242,0.708,0.342,1.6,1.294,0.055,"TP_COR_RACA=NãoBranco, Cluster=A, TP_DEPENDENCIA_ADM_ESC=Estadual",→,mediaNota=452.99 - 585.6
+0.261,0.708,0.368,1.527,1.259,0.054,"mediaNota=452.99 - 585.6, Cluster=A, TP_DEPENDENCIA_ADM_ESC=Estadual",→,ClasseSocial=E
+0.247,0.708,0.348,1.453,1.398,0.07,TemPC=Não,→,"Cluster=A, TP_DEPENDENCIA_ADM_ESC=Estadual"
+0.2,0.706,0.283,2.031,1.228,0.037,"ClasseSocial=E, TemPC=Não",→,TP_COR_RACA=NãoBranco
+0.261,0.705,0.37,1.48,1.288,0.058,"ClasseSocial=E, Cluster=A, TP_DEPENDENCIA_ADM_ESC=Estadual",→,mediaNota=452.99 - 585.6
+0.344,0.705,0.488,1.153,1.253,0.069,"TP_COR_RACA=NãoBranco, TP_DEPENDENCIA_ADM_ESC=Estadual",→,ClasseSocial=E
+0.26,0.704,0.37,1.555,1.224,0.048,"ClasseSocial=E, Cluster=A, TP_DEPENDENCIA_ADM_ESC=Estadual",→,TP_COR_RACA=NãoBranco
+0.242,0.704,0.344,1.472,1.391,0.068,"mediaNota=452.99 - 585.6, TP_COR_RACA=NãoBranco",→,"Cluster=A, TP_DEPENDENCIA_ADM_ESC=Estadual"
+0.269,0.702,0.383,1.501,1.221,0.049,"ClasseSocial=E, Cluster=A",→,TP_COR_RACA=NãoBranco
+0.342,0.701,0.488,1.099,1.309,0.081,"TP_COR_RACA=NãoBranco, TP_DEPENDENCIA_ADM_ESC=Estadual",→,Cluster=A
+0.26,0.701,0.372,1.362,1.385,0.072,"ClasseSocial=E, TP_COR_RACA=NãoBranco",→,"Cluster=A, TP_DEPENDENCIA_ADM_ESC=Estadual"
